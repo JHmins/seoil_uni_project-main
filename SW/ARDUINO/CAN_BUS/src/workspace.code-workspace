@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "D:\\PROJECT\\seoil_uni_project\\ESP32\\SW\\ARDUINO\\PCB_EVKIT_TEST"
+		},
+		{
+			"name": "CAN_BUS",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
